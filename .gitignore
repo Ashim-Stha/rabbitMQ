@@ -1,4 +1,6 @@
-infoms/node_modules
-loggerms/node_modules
-warningAndErrorMs/node_modules
-server/node_modules
+ProducerConsumer/infoms/node_modules
+ProducerConsumer/loggerms/node_modules
+ProducerConsumer/warningAndErrorMs/node_modules
+ProducerConsumer/server/node_modules
+Laith/notifications-api/node_modules
+Laith/orders-api/node_modules

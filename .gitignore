@@ -1,6 +1,2 @@
-ProducerConsumer/infoms/node_modules
-ProducerConsumer/loggerms/node_modules
-ProducerConsumer/warningAndErrorMs/node_modules
-ProducerConsumer/server/node_modules
-Laith/notifications-api/node_modules
-Laith/orders-api/node_modules
+node_modules
+.env

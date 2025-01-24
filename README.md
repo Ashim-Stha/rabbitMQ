@@ -245,11 +245,3 @@ Publishes a log message to the RabbitMQ queue.
     "message": "This is a log message"
   }
   ```
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-This documentation provides an overview of the project structure, services, setup instructions, and usage. Feel free to customize it further to suit your needs.
